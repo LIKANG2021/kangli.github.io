@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             categories: ['journal', 'all']
         },
         {
-            image: 'assets/images/wr.jpg',
+            image: 'assets/images/wr.png',
             link: 'https://www.sciencedirect.com/science/article/pii/S0043135423012307',
             title: 'End-to-end machine-learning for high-gravity ammonia stripping: Bridging the gap between scientific research and user-friendly applications',
             demo: false,

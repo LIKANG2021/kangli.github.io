@@ -1,21 +1,21 @@
-title: Kang Li 
+title: KANG LI
 description: PhD Canditate of Tongji University
-site_title: '@abhn - Abhishek Nagekar'
+site_title: '@KANG LI'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: KANGLI2021
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: kaangli@outlook.com
+keybase_username: KANG LI
+twitter_username: KEN_LLL
+reddit_username: NONE
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/kangli.jpg
 
 # Google Analytics ID
 google_analytics: 

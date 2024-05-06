@@ -1,6 +1,6 @@
-title: KANG LI (李康)
+title: KANG LI
 description: PhD Canditate of Tongji University, Majoring in Civil Engineering
-site_title: '@KANG LI'
+site_title: 'KANG LI’s Personal Page'
 
 # Build settings
 markdown: kramdown
@@ -8,10 +8,10 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: KANGLI2021
-blog_url: https://www.nagekar.com
+blog_url: 
 email: kaangli@outlook.com
 keybase_username: KANG LI
-twitter_username: KEN_LLL
+twitter_username: 
 reddit_username: NONE
 
 # absolute or relative

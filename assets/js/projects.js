@@ -21,7 +21,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/usdp.png',
-            link: 'https://github.com/abhn/Wall-E',
+            link: 'https://www.sciencedirect.com/science/article/pii/S2467967423001629',
             title: 'Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study',
             demo: false,
             technologies: ['USDP', 'Q1', 'Published'],

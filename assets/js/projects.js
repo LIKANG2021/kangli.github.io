@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Study on the penetration capability of GPR for the steel-fibre reinforced concrete (SFRC) segment based on numerical simulations and model test',
             demo: false,
             technologies: ['CBM','Q1','Published'],
-            description: "This paper presented the numerical simulations of the feasibility of GPR detection for steel fiber-reinforced concrete segment",
+            description: "Li, K., Xie, X., Huang, C., Zhou, B., Duan, W., Lin, H., & Wang, C.",
             categories: ['journal', 'all']
         },
         {
@@ -25,16 +25,16 @@ let render_projects = (slug) => {
             title: 'Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study',
             demo: false,
             technologies: ['USDP', 'Q1', 'Published'],
-            description: "This paper presents a GPR A-scan based machine learning algorithm for grout thickness identification",
+            description: "Li, K., Xie, X., Zhou, B., Huang, C., Lin, W., Zhou, Y., & Wang, C.",
             categories: ['journal', 'all']
         },
         {
             image: 'assets/images/zgglxb.png',
             link: 'https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2024.03.021',
-            title: '盾构隧道双液同步注浆GPR检测模型试验Model Test Study on GPR Detection for Cement-sodium Silicate Synchronous Grouting in Shield Tunnel (in Chinese)',
+            title: '盾构隧道双液同步注浆GPR检测模型试验 (Model Test Study on GPR Detection for Cement-sodium Silicate Synchronous Grouting in Shield Tunnel) (in Chinese)',
             demo: false,
             technologies: ['EI', 'Published'],
-            description: "Model Test Study on GPR Detection for Cement-sodium Silicate Synchronous Grouting in Shield Tunnel",
+            description: "李康, 谢雄耀，周彪，黄昌富，周益涵 (Li K., Xie X., Zhou B., Huang C., Zhou Y)",
             categories: ['journal', 'all']
         },
         {

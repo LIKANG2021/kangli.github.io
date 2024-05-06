@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['CBM','Q1','Published'],
             description: "This paper presented the numerical simulations of the feasibility of GPR detection for steel fiber-reinforced concrete segment",
-            categories: ['jornal', 'all']
+            categories: ['journal', 'all']
         },
         {
             image: 'assets/images/usdp.png',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['USDP', 'Q1', 'Published'],
             description: "This paper presents a GPR A-scan based machine learning algorithm for grout thickness identification",
-            categories: ['jornal', 'all']
+            categories: ['journal', 'all']
         },
         {
             image: 'assets/images/collage.jpg',

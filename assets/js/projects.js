@@ -14,7 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mentors.jpg',
             link: 'https://www.sciencedirect.com/science/article/pii/S0950061823024352',
             title: 'Study on the penetration capability of GPR for the steel-fibre reinforced concrete (SFRC) segment based on numerical simulations and model test',
-            demo: 'https://mporter.co',
+            demo: false,
             technologies: ['Q1','Published'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
             categories: ['featured', 'webdev']

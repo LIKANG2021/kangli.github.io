@@ -15,18 +15,18 @@ let render_projects = (slug) => {
             link: 'https://www.sciencedirect.com/science/article/pii/S0950061823024352',
             title: 'Study on the penetration capability of GPR for the steel-fibre reinforced concrete (SFRC) segment based on numerical simulations and model test',
             demo: false,
-            technologies: ['Construction and Building Materials','Q1','Published'],
+            technologies: ['CBM','Q1','Published'],
             description: "This paper presented the numerical simulations of the feasibility of GPR detection for steel fiber-reinforced concrete segment",
-            categories: ['featured', 'webdev']
+            categories: ['jornal', 'all']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/usdp.png',
             link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['featured', 'webdev']
+            title: 'Thickness regression for backfill grouting of shield tunnels based on GPR data and CatBoost & BO-TPE: A full-scale model test study',
+            demo: false,
+            technologies: ['USDP', 'Q1', 'Published'],
+            description: "This paper presents a GPR A-scan based machine learning algorithm for grout thickness identification",
+            categories: ['jornal', 'all']
         },
         {
             image: 'assets/images/collage.jpg',

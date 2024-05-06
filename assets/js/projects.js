@@ -29,13 +29,13 @@ let render_projects = (slug) => {
             categories: ['journal', 'all']
         },
         {
-            image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
+            image: 'assets/images/zgglxb.png',
+            link: 'https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2024.03.021',
+            title: '盾构隧道双液同步注浆GPR检测模型试验Model Test Study on GPR Detection for Cement-sodium Silicate Synchronous Grouting in Shield Tunnel (in Chinese)',
             demo: false,
-            technologies: ['Android', 'OpenCV'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['featured', 'native']
+            technologies: ['EI', 'Published'],
+            description: "Model Test Study on GPR Detection for Cement-sodium Silicate Synchronous Grouting in Shield Tunnel",
+            categories: ['journal', 'all']
         },
         {
             image: 'assets/images/mpw.jpg',

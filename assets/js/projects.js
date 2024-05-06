@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://www.sciencedirect.com/science/article/pii/S0950061823024352',
             title: 'Study on the penetration capability of GPR for the steel-fibre reinforced concrete (SFRC) segment based on numerical simulations and model test',
             demo: false,
-            technologies: ['Q1','Published',''],
+            technologies: ['Q1','Published','Construction and Building Materials'],
             description: "This paper presented the numerical simulations of the feasibility of GPR detection for steel fiber-reinforced concrete segment",
             categories: ['featured', 'webdev']
         },

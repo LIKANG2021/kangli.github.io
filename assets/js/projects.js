@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/cbm.png',
             link: 'https://www.sciencedirect.com/science/article/pii/S0950061823024352',
             title: 'Study on the penetration capability of GPR for the steel-fibre reinforced concrete (SFRC) segment based on numerical simulations and model test',
             demo: false,

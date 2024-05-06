@@ -38,13 +38,13 @@ let render_projects = (slug) => {
             categories: ['journal', 'all']
         },
         {
-            image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-            categories: ['featured', 'security']
+            image: 'assets/images/wr.jpg',
+            link: 'https://www.sciencedirect.com/science/article/pii/S0043135423012307',
+            title: 'End-to-end machine-learning for high-gravity ammonia stripping: Bridging the gap between scientific research and user-friendly applications',
+            demo: false,
+            technologies: ['WR','Q1', 'Published'],
+            description: "Guo, S., Zhou, J., Li, Z., Zheng, L., Wang, X., Cheng, S., & Li, K",
+            categories: ['journal', 'all']
         },
         {
             image: 'assets/images/social-share-count.jpeg',
